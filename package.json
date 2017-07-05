@@ -4,5 +4,9 @@
   "main": "index.js",
   "repository": "https://github.com/mxpower2k/angular_seed.git",
   "author": "mxpower2k <mxpower2k@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "live-server"
+  }
 }
